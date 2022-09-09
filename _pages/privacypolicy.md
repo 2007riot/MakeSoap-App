@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
 15 June 2022
 
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
 
 <br>
 
