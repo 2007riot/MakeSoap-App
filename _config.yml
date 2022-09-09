@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           :
+app_description                           : Create your own well-balanced soap recipe.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,28 +36,28 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Calculate your homemade soap recipe
-    description                           : Saponification calculator that allows you to create natural homemade soap from lye and oils. Create a well-balanced soap recipe, no matter if it’s your first soap or you are a professional soap maker.
+    description                           : Saponification calculator that allows you to create natural homemade soap from lye and oils. 
     fontawesome_icon_name                 : calculator
     
-  - title                                 : Save recipes to your device
-    description                           : Save recipes and reach them anytime without an Internet connection.
-    fontawesome_icon_name                 : box archive
+  - title                                 : Great for beginners
+    description                           : Create a well-balanced soap recipe, no matter if it’s your first soap or you are a professional soap maker.
+    fontawesome_icon_name                 : face-smile-wink
 
   - title                                 : Over 100 oils to choose from
     description                           : Big list of oils and butters to choose from with its properties and fatty acids parametres. 
-    fontawesome_icon_name                 : bottle droplet
+    fontawesome_icon_name                 : bottle-droplet
 
   - title                                 : And over 40 essential oils
     description                           : Add scent to your soap by adding essential oils and check its recommendation
-    fontawesome_icon_name                 : spray can sparkles
+    fontawesome_icon_name                 : spray-can-sparkles
 
   - title                                 : Tips and recommendation
     description                           : If you are new to making homemade soap read brief info and tips about soap making process.
-    fontawesome_icon_name                 : block question
+    fontawesome_icon_name                 : block-question
   
-  - title                                 : #Feature List
-    description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #star
+  - title                                 : Save recipes to your device
+    description                           : Save recipes and reach them anytime without an Internet connection.
+    fontawesome_icon_name                 : box-archive
 
   - title                                 : #Smart App Banner
     description                           : #Display a smart app banner on iOS devices.
@@ -78,7 +78,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#2DD683"
+topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
