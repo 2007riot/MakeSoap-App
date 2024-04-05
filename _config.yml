@@ -43,7 +43,7 @@ features                                  :
     description                           : Create a well-balanced soap recipe, no matter if it’s your first soap or you are a professional soap maker.
     fontawesome_icon_name                 : face-smile-wink
 
-  - title                                 : Over 100 oils to choose from
+  - title                                 : 140 oils to choose from
     description                           : Big list of oils and butters to choose from with its properties and fatty acids parametres. 
     fontawesome_icon_name                 : bottle-droplet
 
@@ -86,7 +86,7 @@ cover_image                               : assets/coverImage.png               
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
